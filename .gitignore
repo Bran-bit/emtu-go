@@ -1,0 +1,8 @@
+# Binários
+*.exe
+*.out
+emtu-go
+# Dependências
+vendor/
+# Ambiente
+.env
